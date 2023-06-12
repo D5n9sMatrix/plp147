@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplp147.a CMakeFiles/plp147.dir/plp147.cpp.o
+/usr/bin/ranlib libplp147.a
